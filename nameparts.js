@@ -10,7 +10,7 @@ let middle = nameS.split(" ");
 middle = middle[1];
 
 let last = nameS.split(" ");
-last = last[2]
+last = last[2];
 
 
 
